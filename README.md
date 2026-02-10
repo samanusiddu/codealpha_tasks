@@ -20,9 +20,13 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. It performs
 ├── script.js
 └── README.md
 
-## How to Run
-Open `index.html` in any modern web browser.
+## How to Run the Project
+-git clone  https://github.com/samanusiddu/codealpha_tasks/tree/main/codealpha_Build-a-Calculator
+-Open `structure.html` in any modern web browser.
 
 ## License
 MIT License
 
+## Author
+Samanu Siddu
+B.Tech CSE Student
